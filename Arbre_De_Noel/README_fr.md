@@ -23,7 +23,7 @@ Decorate it as you wish
 ## My production
 
 <div align="center" markdown>
-   <img src="images\christmas_tree" width="500">
+   <img src="images\christmas_tree.png" width="500">
 </div>
 
 
