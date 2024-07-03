@@ -10,17 +10,17 @@ Français |
 
 ## Introduction
 
-The aim of this little project is to make a Christmas tree.
+L'objectif de ce petit projet est de réaliser avec tkinter un sapin de Noël.
 
 ## Instructions
 
-Create a tkinter window with a background color of your choice and a button. 
+Créez une fenêtre tkinter avec un fond de la couleur de notre choix et un bouton.
 
-This button will display a Christmas tree. 
+Ce bouton doit faire apparaitre le sapin de Noël.
 
-Decorate it as you wish 
+Décorez le comme vous le souhaitez ! Joyeux Noël !
 
-## My production
+## Ma production
 
 <div align="center" markdown>
    <img src="images\christmas_tree.png" width="500">
