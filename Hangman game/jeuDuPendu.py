@@ -462,7 +462,7 @@ class FenPrincipale(Tk):
         Mafenetre = Tk()
         Mafenetre.title('A quoi ça sert ?')
         Mafenetre.geometry('500x200')
-        Mafenetre.iconbitmap('info.ico')
+        Mafenetre.iconbitmap('Hangman game/info.ico')
         Label1 = Label(Mafenetre,
                    text = 
                    "Bonjour tout le monde !\n\n Ce programme est un jeu du pendu ! \n\n Amusez vous !",
