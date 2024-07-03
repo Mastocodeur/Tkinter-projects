@@ -1,5 +1,5 @@
 <div align="center" markdown>
-   <img src=\"images/Screen of result.png\" width="500" alt="Multilingual Markdown Generator" />
+   <img src="images\Screen of result.png" width="500">
 </div>
 
 ## Instructions 
