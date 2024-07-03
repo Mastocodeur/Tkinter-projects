@@ -1,10 +1,13 @@
+## Instructions 
+
+Voici l'objectif de ce projet, reproduire ceci :
+
 <div align="center" markdown>
    <img src="images\Screen of result.png" width="500">
 </div>
 
-## Instructions 
 
-Le programme doit :
+Le programme doit contenir les fonctionnalités suivantes : 
 
 - Créer une fenêtre intitulée "My Practical Lab" de taille fixe.
 
