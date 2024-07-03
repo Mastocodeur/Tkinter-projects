@@ -1,22 +1,32 @@
+<div align="center" markdown>
+
+🌏
+English |
+[**French**](https://github.com/Mastocodeur/Tkinter_projects/blob/main/Dynamic/README_fr.md) |
+
+
+</div>
+
+
 ## Instructions 
 
-Voici l'objectif de ce projet, reproduire ceci :
+The aim of this project is to reproduce this following picture  :
 
 <div align="center" markdown>
    <img src="images\Screen of result.png" width="500">
 </div>
 
 
-Le programme doit contenir les fonctionnalités suivantes : 
+The program must contain the following functions: 
 
-- Créer une fenêtre intitulée "My Practical Lab" de taille fixe.
+- Create a window called "My Practical Lab" of fixed size.
 
-- Dessiner une ligne verticale au centre de la fenêtre et deux cercles (un cercle blanc à gauche et un cercle noir à droite) sur un fond gris.
+- Draw a vertical line in the centre of the window and two circles (a white circle on the left and a black circle on the right) on a grey background.
 
-- Changer la couleur de fond en vert si l'utilisateur clique avec le bouton gauche de la souris sur le cercle noir, et revenir au fond gris si l'utilisateur clique ailleurs.
+- Change the background colour to green if the user clicks with the left mouse button on the black circle, and return to the grey background if the user clicks elsewhere.
 
-- Changer la couleur de fond en rouge si l'utilisateur clique avec le bouton gauche de la souris sur le cercle blanc.
+- Change the background colour to red if the user left-clicks on the white circle.
 
-- Fermer la fenêtre après trois clics avec le bouton gauche de la souris à l'extérieur des deux cercles.
+- Close the window after three clicks with the left mouse button outside the two circles.
 
-- Permettre à l'utilisateur d'inverser les couleurs des cercles (le cercle blanc devient noir et le cercle noir devient blanc) en cliquant avec le bouton droit de la souris sur l'un des cercles.
+- Enable the user to invert the colours of the circles (the white circle becomes black and the black circle becomes white) by right-clicking on one of the circles.

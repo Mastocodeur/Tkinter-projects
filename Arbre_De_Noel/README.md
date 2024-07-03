@@ -1,3 +1,13 @@
+<div align="center" markdown>
+
+🌏
+English |
+[**French**](https://github.com/Mastocodeur/Tkinter_projects/blob/main/Arbre_De_Noel/README_fr.md) |
+
+
+</div>
+
+
 ## Introduction
 
 The aim of this little project is to make a Christmas tree.

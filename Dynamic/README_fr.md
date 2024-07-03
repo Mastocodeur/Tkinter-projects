@@ -1,3 +1,14 @@
+<div align="center" markdown>
+
+🌏
+[**Anglais**](https://github.com/Mastocodeur/Tkinter_projects/blob/main/Dynamic/README.md) |
+Français |
+
+
+</div>
+
+
+
 ## Instructions 
 
 Voici l'objectif de ce projet, reproduire ceci :
